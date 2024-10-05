@@ -1,0 +1,16 @@
+version: '3'
+services:
+  don:
+    build: .
+    container_name: Dock
+    volumes:
+      - server:/home
+    stdin_open: true
+    tty:  true
+volumes:
+  server:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: /home/donghle2/goinfre
