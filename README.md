@@ -11,4 +11,27 @@ Due to the lack of the storage available, we should use docker to be able to ins
 <br>
 2. Locate the files under the goinfre folder.
 <br>
-3. You need to modify the file named **docker-compose.yml**. Change the 16th line code. Modify it into **device : /home/**your intra ID**/goinfre**
+3. You need to modify the file named docker-compose.yml. 
+<br>
+Change the 16th line code. Modify it into device : /home/your intra ID/goinfre.
+<br>
+ex) device : /home/donghle2/goinfre
+<br>
+4. It's ready to go. Type "make" on your terminal to organize the environment.
+<br>
+5. When the setting is over, you will move on to the virtual space.
+<br>
+6. Go to /home.
+<br>
+7. Copy the folder you've done so far. Those files will be tested by typing "paco" command in that directory
+<br>
+8. Test will start if you have done everything well.
+<br>
+GOOD LUCK!
+<br>
+
+<hr>
+Feel Free To Ask Me Any Questions About This Thing.
+<br>
+DM me through the 42 Slack : donghle2
+<hr>
