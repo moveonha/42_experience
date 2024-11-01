@@ -1,7 +1,9 @@
 # 42_experience
 
-docker_setting is for setting paco tester for subjects(libft, get_n_line, printf).
+docker_setting is for organize an environment for excuting paco tester for subjects in the cluster(libft, get_n_line, printf).
+Due to the lack of the storage available, we should use docker to be able to install those programs for testing.
 
-how to use
+<hr>
+<h3 align="center">✨ How To Use ✨</h3>
 <hr>
 
